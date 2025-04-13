@@ -79,3 +79,9 @@ pnpm lint
 #Run Vitest
 pnpm test
 pnpm test⌚
+
+#run nuxthub-admin[bot]
+pnpn test
+
+#run StackBlitz
+pnpn test⌚
