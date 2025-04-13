@@ -58,3 +58,24 @@ Then checkout your server logs, analaytics and more in the [NuxtHub Admin](https
 
 You can also deploy using [Cloudflare Pages CI](https://hub.nuxt.com/docs/getting-started/deploy#cloudflare-pages-ci).
 
+##CONTRIBUTION
+
+
+# Install dependencies
+pnpm i
+
+# Generate type stubs
+pnpm dev:prepare
+
+# Develop with the playground
+pnpm dev
+
+# Build the playground
+pnpm dev:build
+
+# Run ESLint
+pnpm lint
+
+# Run Vitest
+pnpm test
+pnpm test⌚
