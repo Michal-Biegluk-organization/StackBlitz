@@ -1,18 +1,15 @@
-# Install dependencies
-pnpm i
+#Install dependencies pnpm i
 
-# Generate type stubs
-pnpm dev:prepare
+#Generate type stubs pnpm dev:prepare
 
-# Develop with the playground
-pnpm dev
+#Develop with the playground pnpm dev
 
-# Build the playground
-pnpm dev:build
+#Build the playground pnpm dev:build
 
-# Run ESLint
-pnpm lint
+#Run ESLint pnpm lint
 
-# Run Vitest
-pnpm test
-pnpm test:watch
+#Run Vitest pnpm test pnpm test⌚
+
+#run nuxthub-admin[bot] pnpn test
+
+#run StackBlitz pnpn test⌚
