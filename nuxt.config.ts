@@ -4,6 +4,7 @@ export default defineNuxtConfig({
   modules: [
     '@nuxthub/core',
     '@nuxt/eslint',
+    '@vercel/speed-insights',
   ],
 
   // https://devtools.nuxt.com
